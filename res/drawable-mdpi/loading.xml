@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
 android:oneshot="false">
+	<item android:drawable="@drawable/f_00" android:duration="50" />
 	<item android:drawable="@drawable/f_01" android:duration="50" />
 	<item android:drawable="@drawable/f_02" android:duration="50" />
 	<item android:drawable="@drawable/f_03" android:duration="50" />
@@ -13,14 +14,4 @@ android:oneshot="false">
 	<item android:drawable="@drawable/f_10" android:duration="50" />
 	<item android:drawable="@drawable/f_11" android:duration="50" />
 	<item android:drawable="@drawable/f_12" android:duration="50" />
-	<item android:drawable="@drawable/f_13" android:duration="50" />
-	<item android:drawable="@drawable/f_14" android:duration="50" />
-	<item android:drawable="@drawable/f_15" android:duration="50" />
-	<item android:drawable="@drawable/f_16" android:duration="50" />
-	<item android:drawable="@drawable/f_17" android:duration="50" />
-	<item android:drawable="@drawable/f_18" android:duration="50" />
-	<item android:drawable="@drawable/f_19" android:duration="50" />
-	<item android:drawable="@drawable/f_20" android:duration="50" />
-	<item android:drawable="@drawable/f_21" android:duration="50" />
-	<item android:drawable="@drawable/f_22" android:duration="50" />
 </animation-list> 
